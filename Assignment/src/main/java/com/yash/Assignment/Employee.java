@@ -78,6 +78,9 @@ public class Employee {
 		this.salary = salary;
 		this.dept = dept;
 	}
+	public void display(){
+		System.out.println("Hello Testing new Features in Github");
+	}
 
 	public Employee() {
 		// TODO Auto-generated constructor stub
